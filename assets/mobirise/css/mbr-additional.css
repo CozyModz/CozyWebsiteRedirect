@@ -1083,7 +1083,11 @@ a {
 .cid-sjOxWrUny5 {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
+}
+.cid-sjOxWrUny5 .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-sjOxWrUny5 img,
 .cid-sjOxWrUny5 .item-img {
@@ -1142,7 +1146,7 @@ a {
 .cid-sjOCP1iNcD {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
 }
 .cid-sjOCP1iNcD img,
 .cid-sjOCP1iNcD .item-img {
@@ -1201,7 +1205,11 @@ a {
 .cid-sjOGFk329w {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
+}
+.cid-sjOGFk329w .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-sjOGFk329w img,
 .cid-sjOGFk329w .item-img {
