@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cozy Modz",
-    "currentPage": "index.html",
+    "currentPage": "menus.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -130,6 +130,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff"
+            },
+            "H3": {
+              "text-align": "center"
             }
           },
           "_name": "info2",
