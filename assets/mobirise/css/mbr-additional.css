@@ -688,11 +688,51 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sjOLnfq9js .navbar-dropdown {
-  position: relative !important;
+.cid-sktU7WBhnh {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
 }
-.cid-sjOLnfq9js .navbar-dropdown {
-  position: absolute !important;
+.cid-sktU7WBhnh .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sktUNgBKff {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-sktUNgBKff .card {
+  border-radius: 0;
+}
+@media (min-width: 992px) {
+  .cid-sktUNgBKff .card {
+    border-right: 1px solid white;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sktUNgBKff .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-sktUNgBKff .wrapper {
+  padding: 30px 0;
+}
+.cid-sktUNgBKff .mbr-section-title {
+  color: #fafafa;
+}
+.cid-sktUNgBKff .mbr-text,
+.cid-sktUNgBKff .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sjOLnfq9js {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+}
+.cid-sjOLnfq9js nav.navbar {
+  position: fixed;
 }
 .cid-sjOLnfq9js .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -755,7 +795,7 @@ a {
 }
 .cid-sjOLnfq9js .dropdown-menu,
 .cid-sjOLnfq9js .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sjOLnfq9js .nav-item:focus,
 .cid-sjOLnfq9js .nav-link:focus {
@@ -789,8 +829,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-sjOLnfq9js .navbar.opened {
   transition: all 0.3s;
@@ -935,7 +975,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjOLnfq9js .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-sjOLnfq9js .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1008,6 +1048,7 @@ a {
 }
 .cid-sjOLnfq9js .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sjOLnfq9js a.nav-link {
   display: flex;
@@ -1036,58 +1077,26 @@ a {
     left: -1rem;
   }
 }
-.cid-sjOqllCoRU {
-  display: flex;
-  background-image: url("../../../assets/images/untitledddd-2.gif");
+.cid-sktNDErXzT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
 }
-.cid-sjOqllCoRU .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.2;
-}
-.cid-sjOqllCoRU .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-sjOqllCoRU {
-    align-items: flex-end;
-  }
-  .cid-sjOqllCoRU .row {
-    justify-content: flex-start;
-  }
-  .cid-sjOqllCoRU .content-wrap {
-    width: 51%;
+@media (max-width: 991px) {
+  .cid-sktNDErXzT .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-sjOqllCoRU .content-wrap {
-    min-width: 50%;
-  }
+.cid-sktNDErXzT .row {
+  flex-direction: row-reverse;
 }
-@media (max-width: 767px) {
-  .cid-sjOqllCoRU {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-sjOqllCoRU .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-sjOqllCoRU .content-wrap {
-    width: 100%;
-  }
-}
-.cid-sjOqllCoRU .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
+.cid-sktNDErXzT img {
+  width: 100%;
 }
 .cid-sjOxWrUny5 {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
-}
-.cid-sjOxWrUny5 .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.1;
+  background-color: #000000;
 }
 .cid-sjOxWrUny5 img,
 .cid-sjOxWrUny5 .item-img {
@@ -1143,10 +1152,69 @@ a {
 .cid-sjOxWrUny5 .item-subtitle {
   text-align: left;
 }
+.cid-sktQhTSUcl {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-sktQhTSUcl img,
+.cid-sktQhTSUcl .item-img {
+  width: 100%;
+}
+.cid-sktQhTSUcl .item:focus,
+.cid-sktQhTSUcl span:focus {
+  outline: none;
+}
+.cid-sktQhTSUcl .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sktQhTSUcl .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #00328d;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sktQhTSUcl .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-sktQhTSUcl .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sktQhTSUcl .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-sktQhTSUcl .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-sktQhTSUcl .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sktQhTSUcl .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sktQhTSUcl .mbr-text,
+.cid-sktQhTSUcl .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-sktQhTSUcl .item-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-sktQhTSUcl .item-subtitle {
+  text-align: left;
+}
 .cid-sjOCP1iNcD {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
+  background-color: #000000;
 }
 .cid-sjOCP1iNcD img,
 .cid-sjOCP1iNcD .item-img {
@@ -1205,11 +1273,7 @@ a {
 .cid-sjOGFk329w {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/flag-admirals-of-the-blue-squadron-royal-navy-2.gif");
-}
-.cid-sjOGFk329w .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.1;
+  background-color: #000000;
 }
 .cid-sjOGFk329w img,
 .cid-sjOGFk329w .item-img {
@@ -1265,11 +1329,14 @@ a {
 .cid-sjOGFk329w .item-subtitle {
   text-align: left;
 }
-.cid-sjOLUiedpz .navbar-dropdown {
-  position: relative !important;
+.cid-sjOLUiedpz {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
 }
-.cid-sjOLUiedpz .navbar-dropdown {
-  position: absolute !important;
+.cid-sjOLUiedpz nav.navbar {
+  position: fixed;
 }
 .cid-sjOLUiedpz .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1332,7 +1399,7 @@ a {
 }
 .cid-sjOLUiedpz .dropdown-menu,
 .cid-sjOLUiedpz .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sjOLUiedpz .nav-item:focus,
 .cid-sjOLUiedpz .nav-link:focus {
@@ -1366,8 +1433,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-sjOLUiedpz .navbar.opened {
   transition: all 0.3s;
@@ -1512,7 +1579,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1585,6 +1652,7 @@ a {
 }
 .cid-sjOLUiedpz .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sjOLUiedpz a.nav-link {
   display: flex;
