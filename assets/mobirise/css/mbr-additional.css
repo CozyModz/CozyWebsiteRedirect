@@ -731,9 +731,6 @@ a {
 .cid-sjOLnfq9js .navbar-dropdown {
   position: relative !important;
 }
-.cid-sjOLnfq9js .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-sjOLnfq9js .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -795,7 +792,7 @@ a {
 }
 .cid-sjOLnfq9js .dropdown-menu,
 .cid-sjOLnfq9js .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sjOLnfq9js .nav-item:focus,
 .cid-sjOLnfq9js .nav-link:focus {
@@ -829,8 +826,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-sjOLnfq9js .navbar.opened {
   transition: all 0.3s;
@@ -975,7 +972,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjOLnfq9js .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-sjOLnfq9js .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1331,9 +1328,6 @@ a {
 .cid-sjOLUiedpz .navbar-dropdown {
   position: relative !important;
 }
-.cid-sjOLUiedpz .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-sjOLUiedpz .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1395,7 +1389,7 @@ a {
 }
 .cid-sjOLUiedpz .dropdown-menu,
 .cid-sjOLUiedpz .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sjOLUiedpz .nav-item:focus,
 .cid-sjOLUiedpz .nav-link:focus {
@@ -1429,8 +1423,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-sjOLUiedpz .navbar.opened {
   transition: all 0.3s;
@@ -1575,7 +1569,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
