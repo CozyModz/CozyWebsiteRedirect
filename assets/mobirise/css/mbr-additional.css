@@ -1137,6 +1137,74 @@ a {
 .cid-sktNDErXzT img {
   width: 100%;
 }
+.cid-slIVcE1yUl {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-slIVcE1yUl .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-slIVcE1yUl .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-slIVcE1yUl .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-slIVcE1yUl .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.cid-slIVcE1yUl .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-slIVcE1yUl .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-slIVcE1yUl .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  transition: .2s linear;
+}
+.cid-slIVcE1yUl .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-slIVcE1yUl .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-slIVcE1yUl .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-slIVcE1yUl .media-container-row .row-copirayt p {
+  width: 100%;
+}
 .cid-sjOxWrUny5 {
   padding-top: 3rem;
   padding-bottom: 0rem;
@@ -1325,7 +1393,7 @@ a {
 }
 .cid-sjOLUiedpz .dropdown-menu,
 .cid-sjOLUiedpz .navbar.opened {
-  background: #ffffff !important;
+  background: #22a5e5 !important;
 }
 .cid-sjOLUiedpz .nav-item:focus,
 .cid-sjOLUiedpz .nav-link:focus {
@@ -1360,7 +1428,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0);
+  background: rgba(34, 165, 229, 0);
 }
 .cid-sjOLUiedpz .navbar.opened {
   transition: all 0.3s;
@@ -1505,7 +1573,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #22a5e5;
 }
 .cid-sjOLUiedpz .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1536,7 +1604,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #22a5e5;
 }
 .cid-sjOLUiedpz button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1605,4 +1673,72 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-slIVcE1yUl {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-slIVcE1yUl .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-slIVcE1yUl .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-slIVcE1yUl .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-slIVcE1yUl .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-slIVcE1yUl .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.cid-slIVcE1yUl .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-slIVcE1yUl .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-slIVcE1yUl .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  transition: .2s linear;
+}
+.cid-slIVcE1yUl .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-slIVcE1yUl .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-slIVcE1yUl .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-slIVcE1yUl .media-container-row .row-copirayt p {
+  width: 100%;
 }
