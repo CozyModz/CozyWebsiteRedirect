@@ -1077,7 +1077,7 @@ a {
   }
 }
 .cid-slInhldlpK {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #000000;
 }
@@ -1136,6 +1136,11 @@ a {
 }
 .cid-sktNDErXzT img {
   width: 100%;
+}
+.cid-slMhw0WTVA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
 .cid-sjOxWrUny5 {
   padding-top: 4rem;
@@ -1605,4 +1610,9 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-slMhw0WTVA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
