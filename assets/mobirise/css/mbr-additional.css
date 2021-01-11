@@ -1121,21 +1121,37 @@ a {
 .cid-slInhldlpK .mbr-section-btn {
   color: #fafafa;
 }
-.cid-sktNDErXzT {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
+.cid-slNGqJQtOl {
+  padding-top: 1rem;
+  padding-bottom: 8rem;
   background-color: #000000;
 }
-@media (max-width: 991px) {
-  .cid-sktNDErXzT .image-wrapper {
-    margin-bottom: 1rem;
+@media (min-width: 1500px) {
+  .cid-slNGqJQtOl .container {
+    max-width: 1400px;
   }
 }
-.cid-sktNDErXzT .row {
-  flex-direction: row-reverse;
+.cid-slNGqJQtOl .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
 }
-.cid-sktNDErXzT img {
-  width: 100%;
+.cid-slNGqJQtOl .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-slNGqJQtOl .row {
+  justify-content: center;
+}
+.cid-slNGqJQtOl .card-title,
+.cid-slNGqJQtOl .iconfont-wrapper {
+  color: #ffffff;
+}
+.cid-slNGqJQtOl .card-text {
+  color: #ffffff;
+}
+.cid-slNGqJQtOl .mbr-section-title {
+  color: #ffffff;
 }
 .cid-slMhw0WTVA {
   padding-top: 0px;
@@ -1162,7 +1178,7 @@ a {
 .cid-sjOxWrUny5 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #232323;
+  background: #353535;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
