@@ -1138,8 +1138,8 @@ a {
   width: 100%;
 }
 .cid-slMhw0WTVA {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-sjOxWrUny5 {
@@ -1162,7 +1162,7 @@ a {
 .cid-sjOxWrUny5 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #00328d;
+  background: #232323;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1224,7 +1224,7 @@ a {
 .cid-sktQhTSUcl .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #00328d;
+  background: #353535;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1612,7 +1612,7 @@ a {
   }
 }
 .cid-slMhw0WTVA {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
